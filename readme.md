@@ -18,3 +18,7 @@ OMG this is my biggest achievement till now in my Web development journey here i
 ![9th_Project](preview.png)
 ![9th_Project](preview1.png)
 ![9th_Project](preview2.png)
+
+## Deployed link
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1d230d3-a25b-4b17-891e-97eb1b313980/deploy-status)](https://rohankaushik9thproject.netlify.app/)
